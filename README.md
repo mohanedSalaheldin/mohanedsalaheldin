@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mohaned Salaheldin</h1>
 <h3 align="center">Flutter Developer</h3>
 
-- 🔭 I’m currently working on [E-commerce Store](https://github.com/mohanedSalaheldin/e-commerce.git)
 
 - 🌱 I’m currently working with **Flutter**
+
+- 👽 I wrote my first "Hello, World" program **using Java in 2020.**
+
+- 🔭 I’m currently working on [E-commerce Store](https://github.com/mohanedSalaheldin/e-commerce.git)
+  
+- 🏃 I'm also currently working on **obtaining my CS degree**
 
 - 📫 How to reach me **mohanedsalaheldin24@gmail.com**
 
