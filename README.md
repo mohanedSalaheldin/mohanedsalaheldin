@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mohanedsalaheldin24@gmail.com**
 
-- ⚡ Foodball **A former fan of Man Utd until Sir Alex passed away**
+- ⚡ love foodball and a** former fan of Man Utd until Sir Alex leave**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
