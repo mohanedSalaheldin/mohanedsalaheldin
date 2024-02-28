@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mohanedsalaheldin24@gmail.com**
 
-- ⚡ Love Football and **A former fan of Man Utd until Sir Alex lift**
+- ⚡ Love Football and **A former fan of Man Utd until Sir Alex passed away**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
