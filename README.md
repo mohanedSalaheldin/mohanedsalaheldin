@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Bay3 Store](https://github.com/mohanedSalaheldin/e-commerce.git)
   
-- 🏃 I'm also currently working on **obtaining my CS degree**
+- 🏃 I'm also currently working on **obtaining my CS degree** 
 
 - 📫 How to reach me **mohanedsalaheldin24@gmail.com**
 
