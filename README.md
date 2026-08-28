@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Mohaned Salah" src="https://github.com/user-attachments/assets/9f0384c3-703a-4e33-80bd-f55d02618594" />
+
 <h1 align="center">SALAAM!, I'm Mohaned Salaheldin </h1>
 <h3 align="center">Full-Stack Mobile Engineer (Flutter & Laravel) | ERP Developer (Odoo)</h3>
 
